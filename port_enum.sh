@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Replace the following with the desired target IP address or range
-target="192.168.40.128"
+target="<IP>"
 
 # Replace this with the desired output filename for the scan
 output_file="port_enum_results.txt"
